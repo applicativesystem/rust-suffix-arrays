@@ -3,9 +3,7 @@ use clap::Parser;
 #[derive(Debug, Parser)]
 #[clap(version)]
 
-pub struct DEBruijnArgs {
+pub struct SuffixArraysArgs {
     /// please provide the path to the fastq file
-    pub debruijn_arg: String,
-    /// please provide the kmer for the graph construction
-    pub kmer_arg: usize,
+    pub suffixarray_arg: String
 }

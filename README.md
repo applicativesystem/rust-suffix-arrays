@@ -1,7 +1,6 @@
 # rust-suffix-arrays
-
-**Today i finished one month of RUST and memorized all RUST docs and all these crates i have coded in one month of learning and applying at the same time. I coded all these algorithms in C++ previously and now coded in RUST and finished learning RUST from system programming to Web development in one month**.
-
+ -**Today i finished one month of RUST development, which includes,memorizing all RUST docs, coded all these RUST codes and used RUST from algorithm bioinformatics to web development**. 
+ - **I coded all these algorithms in C++ previously and now coded in RUST and finished learning RUST from system programming to web development in one month**.
  - This rust emphasis on the following part for the implementation.
  - rust suffix array building from two points: 1. LCP and 2. Kasai path generation.  
  - please see the other trait for the Kasai and Ukonnen implemented using this crate to build the graph.
